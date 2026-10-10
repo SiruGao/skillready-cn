@@ -1,0 +1,211 @@
+{
+  "fetched_at_utc": "2026-10-10T06:30:04.947202+00:00",
+  "sources": {
+    "weekly": [
+      {
+        "repo": "boykopovar/AnyPS5",
+        "stars": "23,268",
+        "gain": 15539,
+        "period": "week"
+      },
+      {
+        "repo": "mvschwarz/openrig",
+        "stars": "6,540",
+        "gain": 2338,
+        "period": "week"
+      },
+      {
+        "repo": "mattpocock/skills",
+        "stars": "283,161",
+        "gain": 8156,
+        "period": "week"
+      },
+      {
+        "repo": "heygen-com/hyperframes",
+        "stars": "59,940",
+        "gain": 4003,
+        "period": "week"
+      },
+      {
+        "repo": "cursor/plugins",
+        "stars": "10,633",
+        "gain": 1125,
+        "period": "week"
+      },
+      {
+        "repo": "EpicGames/raddebugger",
+        "stars": "8,287",
+        "gain": 654,
+        "period": "week"
+      },
+      {
+        "repo": "thedotmack/claude-mem",
+        "stars": "99,039",
+        "gain": 3850,
+        "period": "week"
+      },
+      {
+        "repo": "earthtojake/text-to-cad",
+        "stars": "18,826",
+        "gain": 2125,
+        "period": "week"
+      },
+      {
+        "repo": "pingdotgg/t3code",
+        "stars": "26,676",
+        "gain": 2379,
+        "period": "week"
+      },
+      {
+        "repo": "Panniantong/Agent-Reach",
+        "stars": "95,094",
+        "gain": 7084,
+        "period": "week"
+      },
+      {
+        "repo": "DuarteSantos8/openGym",
+        "stars": "8,814",
+        "gain": 6749,
+        "period": "week"
+      }
+    ],
+    "monthly": [
+      {
+        "repo": "alibaba/open-code-review",
+        "stars": "45,490",
+        "gain": 23028,
+        "period": "month"
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "stars": "56,556",
+        "gain": 34560,
+        "period": "month"
+      },
+      {
+        "repo": "anthropics/financial-services",
+        "stars": "39,208",
+        "gain": 4495,
+        "period": "month"
+      },
+      {
+        "repo": "paperclipai/paperclip",
+        "stars": "99,340",
+        "gain": 19137,
+        "period": "month"
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "stars": "276,092",
+        "gain": 22710,
+        "period": "month"
+      },
+      {
+        "repo": "bilawalsidhu/gods-eye-view",
+        "stars": "49,739",
+        "gain": 29212,
+        "period": "month"
+      },
+      {
+        "repo": "vectorize-io/hindsight",
+        "stars": "47,804",
+        "gain": 24617,
+        "period": "month"
+      },
+      {
+        "repo": "Tencent/WeKnora",
+        "stars": "32,914",
+        "gain": 11118,
+        "period": "month"
+      },
+      {
+        "repo": "anthropics/claude-code",
+        "stars": "149,925",
+        "gain": 6173,
+        "period": "month"
+      },
+      {
+        "repo": "TencentCloud/Octop",
+        "stars": "8,336",
+        "gain": 6720,
+        "period": "month"
+      },
+      {
+        "repo": "anthropics/knowledge-work-plugins",
+        "stars": "28,419",
+        "gain": 4131,
+        "period": "month"
+      },
+      {
+        "repo": "agent-substrate/substrate",
+        "stars": "4,725",
+        "gain": 2879,
+        "period": "month"
+      },
+      {
+        "repo": "NVIDIA/OpenShell",
+        "stars": "15,637",
+        "gain": 7118,
+        "period": "month"
+      },
+      {
+        "repo": "heygen-com/hyperframes",
+        "stars": "59,940",
+        "gain": 11576,
+        "period": "month"
+      },
+      {
+        "repo": "JustVugg/colibri",
+        "stars": "40,857",
+        "gain": 13755,
+        "period": "month"
+      },
+      {
+        "repo": "mksglu/context-mode",
+        "stars": "26,009",
+        "gain": 4398,
+        "period": "month"
+      },
+      {
+        "repo": "trycua/cua",
+        "stars": "29,218",
+        "gain": 6877,
+        "period": "month"
+      },
+      {
+        "repo": "tashfeenahmed/freellmapi",
+        "stars": "32,627",
+        "gain": 7455,
+        "period": "month"
+      },
+      {
+        "repo": "cursor/plugins",
+        "stars": "10,633",
+        "gain": 3503,
+        "period": "month"
+      },
+      {
+        "repo": "addyosmani/agent-skills",
+        "stars": "104,170",
+        "gain": 11155,
+        "period": "month"
+      },
+      {
+        "repo": "DietrichGebert/ponytail",
+        "stars": "159,831",
+        "gain": 27290,
+        "period": "month"
+      },
+      {
+        "repo": "max-sixty/worktrunk",
+        "stars": "9,146",
+        "gain": 2301,
+        "period": "month"
+      }
+    ]
+  },
+  "source_urls": {
+    "weekly": "https://github.com/trending?since=weekly",
+    "monthly": "https://github.com/trending?since=monthly"
+  }
+}
