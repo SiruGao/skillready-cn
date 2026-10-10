@@ -1,0 +1,10 @@
+{
+  "name": "skillready-cn",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "中文团队的 AI Skill 接入验收工作台",
+  "scripts": { "test": "node --test tests/*.test.mjs", "start": "node server.mjs" },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
